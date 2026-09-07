@@ -7,3 +7,4 @@ It has been a few years. A lot has changed. And yet, my passion for reading and 
 | # | Name | First Published |
 |---|---|---|
 | 1 | [AI Agents Push Humans Out of the Loop](https://arxiv.org/pdf/2608.23642) | Mon, 24 Aug 2026 |
+| 2| [Ironies of Automation*](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf) | November 1983 |
